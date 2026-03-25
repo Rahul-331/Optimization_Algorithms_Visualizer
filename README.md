@@ -9,6 +9,12 @@ A professional, interactive Streamlit dashboard showcasing four advanced optimiz
 
 ---
 
+## 🌐 Live Demo
+
+**Check out the live application:** [https://rahul-algorithm-visualizer.streamlit.app/](https://rahul-algorithm-visualizer.streamlit.app/)
+
+---
+
 ## 📋 Overview
 
 This project presents a comprehensive visualization platform for optimization algorithms, designed for students and engineers studying advanced optimization techniques. Each algorithm is implemented with interactive parameter controls and real-time visualizations to understand convergence behavior and algorithm dynamics.
